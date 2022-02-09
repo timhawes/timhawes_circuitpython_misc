@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Tim Hawes
+#
+# SPDX-License-Identifier: MIT
+
 import digitalio
 from adafruit_bus_device.i2c_device import I2CDevice
 

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 Tim Hawes
+#
+# SPDX-License-Identifier: MIT
+
 from . import pyDes
 
 MODE_EBC = pyDes.ECB
